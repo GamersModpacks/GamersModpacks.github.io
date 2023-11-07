@@ -1,7 +1,7 @@
 ---
 title: GamersReloaded⚙️
 date: 2022-10-31
-categories: [Minecraft, Modpacks]
+categories: [Kitchen-sink]
 tags: [active, basedonfpb]
 image:
   path: /assets/modpacks/preview/GamersReloaded.svg

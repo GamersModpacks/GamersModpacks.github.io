@@ -1,7 +1,7 @@
 ---
 title: GamersMagicated🪄
 date: 2022-09-16
-categories: [Minecraft, Modpacks]
+categories: [Mythic]
 tags: [archived]
 image:
   lqip: /assets/modpacks/preview/small/GamersMagicated.png

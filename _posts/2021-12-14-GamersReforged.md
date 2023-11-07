@@ -1,7 +1,7 @@
 ---
 title: GamersReforged🪨
 date: 2021-12-14
-categories: [Minecraft, Modpacks]
+categories: [Kitchen-sink]
 tags: [archived]
 image:
   lqip: /assets/modpacks/preview/small/GamersReforged.png

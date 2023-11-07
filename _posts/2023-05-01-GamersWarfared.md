@@ -1,7 +1,7 @@
 ---
 title: GamersWarfared🪖
 date: 2023-05-01
-categories: [Minecraft, Modpacks]
+categories: [Modern]
 tags: [active, basedonfpb]
 image:
   path: /assets/modpacks/preview/GamersWarfared.svg

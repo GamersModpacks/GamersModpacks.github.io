@@ -1,7 +1,7 @@
 ---
 title: GamersBuried👻
 date: 2022-11-18
-categories: [Minecraft, Modpacks]
+categories: [Mythic]
 tags: [archived]
 image:
   path: /assets/modpacks/preview/GamersBuried.svg
