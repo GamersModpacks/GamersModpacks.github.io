@@ -2,7 +2,7 @@
 title: GamersWarfared🪖
 date: 2023-05-01
 categories: [Modern]
-tags: [active, basedonfpb]
+tags: [archived, basedonfpb]
 image:
   path: /assets/modpacks/preview/GamersWarfared.svg
 ---
