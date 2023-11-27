@@ -20,9 +20,10 @@ This modpack is built with [**Packwiz**](https://packwiz.infra.link/), a command
 
 - **Ruined cities**: In the GamersAdvanced world, players can explore the ruins of cities that were built before the war. These ruins can contain valuable resources as well as ancient divine relics.
 
-## Downloads
+## Downloads:
 ### [MultiMC](https://multimc.org/), [PrismLauncher](https://prismlauncher.org/) Auto-Updating [Packwiz-Intaller](https://github.com/packwiz/packwiz-installer) Modpack:
 - **The Latest Release**(1.19.2): [Click or Drag-n-Drop](/GamersAdvanced/downloads/mmc/forge/1.19.2/GamersAdvanced.zip)
 - **The Latest Beta**(1.19.2): [Click or Drag-n-Drop](/GamersAdvanced/downloads/mmc/forge/1.19.2/GamersAdvanced-beta.zip)
+
 ### [Curseforge App](https://www.curseforge.com/download/app) Modpack:
 - **The Latest Release** from GitHub Releases: [Click Here to Download](https://github.com/GamersModpacks/GamersAdvanced/releases/latest/download/GamersAdvanced-CurseForge.zip)
